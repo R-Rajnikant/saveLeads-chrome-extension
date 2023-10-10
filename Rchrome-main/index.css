@@ -1,0 +1,38 @@
+input{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    
+    border: 1px solid #5f9341 ;
+
+    
+
+}
+button{
+    padding: 10px 20px 10px 20px;
+    margin-top: 10px;
+    background: #5f9341;
+    color: white;
+    text-size-adjust: 20px;
+    text-decoration-color: blanchedalmond;
+    border: 1px solid #5f9341;
+    font-weight: bolder;
+}
+body{
+    padding: 10px;
+    min-width: 400px;
+
+}
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #5f9341;
+}
